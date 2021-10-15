@@ -2,8 +2,6 @@
 
 Jordan Hiatt – jdh2e
 
-DS 5001 - Exploratory Text Analytics
-
 Arthur Conan Doyle is most well known as the author of the novels and short stories of Sherlock Holmes. However, Conan Doyle was a prolific author of many other books, like the adventure stories of Professor Challenger and other historical works. For this project I have pulled in the full literary works of Arthur Conan Doyle housed in Project Gutenberg. Some of Conan Doyle&#39;s works were not listed there, and others were not formatted correctly for my purposes. After eliminating non-English translations, I was left with 61 titles including some song and poetry. I have not read any of Conan Doyle&#39;s other works, but I have read most of the Sherlock Holmes canon. For this project I will explore various exploratory text analytic techniques to try and distinguish between Sherlock Holmes works and others in the corpus. As I go, I will evaluate these techniques, acknowledging limits in my background with the non-Sherlock Holmes portion of the corpus.
 
 ## Data Preparation
